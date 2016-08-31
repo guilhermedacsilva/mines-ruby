@@ -1,0 +1,7 @@
+The game won't have a graphical interface.
+The max value for lines and columns is 26, because the user will use letters to choose it.
+The max value for bombs is (cell_quantity - 1).
+There will be predefined values for easy, medium and hard.
+* easy: 10x10 and 10 bombs
+* medium: 15x15 and 20 bombs
+* hard: 26x26 and 150 bombs
